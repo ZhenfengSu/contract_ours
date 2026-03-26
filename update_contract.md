@@ -1,46 +1,46 @@
-# 供应商服务合同
+## Vendor Service Agreement
 
 ---
 
-## 一、合同基本信息
+### I. Basic Contract Information
 
-- 合同名称：数据处理与分析服务合同
-- 供应商名称：星河数据服务有限公司
-- 供应商统一社会信用识别号：91310000MA8TEST001
-- 合同编号：VEND-2026-014
-- 签署日期：2026年1月6日
-- 服务周期：2026年1月1日至2026年12月31日
-
----
-
-## 二、服务内容
-
-乙方（星河数据服务有限公司）向甲方提供以下服务：
-
-1. 月度数据清洗与结构化整理；
-2. 数据分析报表生成与定期交付；
-3. 常规数据接口维护支持；
-4. 每月一次例行数据质量核查。
+- **Contract Title:** Data Processing and Analytics Services Agreement  
+- **Vendor Name:** Xinghe Data Services Co., Ltd.  
+- **Unified Social Credit Code:** 91310000MA8TEST001  
+- **Contract Number:** VEND-2026-014  
+- **Execution Date:** January 6, 2026  
+- **Service Term:** January 1, 2026 to December 31, 2026  
 
 ---
 
-## 三、费用条款
+### II. Scope of Services
 
-1. 基础服务费：人民币 248,000  元 / 月。
-2. 上述费用已包含常规数据处理、报表生成及标准维护支持。
-3. 如发生额外专项服务，需由甲方提交书面需求，并经审批后方可计费。
-4. 任何附加服务费用必须对应有效的书面审批记录，否则不得纳入当月结算。
+Party B (**Xinghe Data Services Co., Ltd.**) shall provide Party A with the following services:
 
----
-
-## 四、付款与结算
-
-1. 乙方应于每月结束后 5 个工作日内提交当月账单。
-2. 甲方在完成内部核验后安排付款。
-3. 若账单金额与合同约定不一致，或存在未审批附加费用，甲方有权暂停结算并发起人工复核。
+1. Monthly data cleansing and structuring;  
+2. Generation and regular delivery of data analysis reports;  
+3. Routine maintenance and support for data interfaces;  
+4. One regular data quality review per month.  
 
 ---
 
-## 五、补充说明
+### III. Fee Terms
 
-1. 若出现额外收费，需有单独审批流程与审批单编号。
+1. **Base Service Fee:** RMB 248,000 per month.  
+2. The above fee includes routine data processing, report generation, and standard maintenance support.  
+3. Any additional special services shall be billable only upon Party A’s written request and prior approval.  
+4. Any additional service charges must be supported by a valid written approval record; otherwise, they shall not be included in the monthly settlement.
+
+---
+
+### IV. Payment and Settlement
+
+1. Party B shall submit the monthly invoice within five business days after the end of each month.  
+2. Party A shall arrange payment after completing its internal verification process.  
+3. If the invoiced amount is inconsistent with the contract terms, or if there are additional unapproved charges, Party A shall have the right to suspend settlement and initiate a manual review.
+
+---
+
+### V. Supplementary Provision
+
+1. Any additional charges must be supported by a separate approval process and a corresponding approval reference number.
